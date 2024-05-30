@@ -15,6 +15,8 @@
 - ❤️ I love creating intuitive and visually appealing user interfaces using modern web technologies.
 - ⚡ Fun fact: I enjoy exploring new music genres and experimenting with different cuisines in my free time.
 
+![Snake animation](https://raw.githubusercontent.com/namanpancholi1998/namanpancholi1998/output/github-contribution-grid-snake-dark.svg)
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanpancholi1998&label=Profile%20views&color=0e75b6&style=flat" alt="namanpancholi1998" /> </p>

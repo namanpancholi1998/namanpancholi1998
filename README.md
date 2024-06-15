@@ -10,10 +10,10 @@
 - 🌱 I’m currently learning new techniques and best practices in React and Node.js.
 - 🤝 I’m looking to collaborate on projects related to front-end development, particularly in React.
 - 🤔 I’m looking for help with mastering advanced concepts in React and Node.js.
-- 💬 Ask me about related to Java, HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Node.js, Express, or MongoDB.
+- 💬 Ask me related to Java, HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React, Node.js, Express, or MongoDB.
 - 📫 How to reach me: You can reach out to me via email at namanpancholi1998@gmail.com or give me a call at 7426945874.
 - ❤️ I love creating intuitive and visually appealing user interfaces using modern web technologies.
-- ⚡ Fun fact: I enjoy exploring new music genres and experimenting with different cuisines in my free time.
+- ⚡ Fun fact: I enjoy exploring new music genres.
 
 
 
